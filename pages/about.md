@@ -17,6 +17,6 @@ title: 关于我
 
 ## 联系我
 
-- Email&nbsp;: [862133778@qq.com](mailto:1772314831@qq.com)
+- Email&nbsp;: [862133778@qq.com](mailto:862133778@qq.com)
 
-- GitHub: [https://github.com/adragonqaq](https://github.com/tmaize)
+- GitHub: [https://github.com/adragonqaq](https://github.com/adragonqaq)
