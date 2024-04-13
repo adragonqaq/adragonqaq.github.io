@@ -1,8 +1,8 @@
 ---
 layout: mypost
 title: 文档支持的Markdown语法
-date: 2016-11-20 
-tags: markdown    
+date: 2016-11-20
+categories: markdown    
 ---
 
 
