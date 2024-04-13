@@ -1,9 +1,10 @@
 ---
 layout: mypost
-title: "前人指路"
-date:  2019-11-10
+title: "github-actions"
+date:  2023-12-30
 categories: 前人指路
 ---
+
 
 
 # GitHub Actions 教程：定时发送天气邮件

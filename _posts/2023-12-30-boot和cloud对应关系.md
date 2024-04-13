@@ -1,7 +1,7 @@
 ---
 layout: mypost
-title: "前人指路"
-date:  2019-11-10
+title: "boot和cloud对应关系"
+date:  2023-12-30
 categories: 前人指路
 ---
 

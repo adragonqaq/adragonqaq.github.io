@@ -1,9 +1,10 @@
 ---
 layout: mypost
-title: "前人指路"
-date:  2019-11-10
+title: "resttemplate"
+date:  2023-12-30
 categories: 前人指路
 ---
+
 
 https://www.seasidecrab.com/Java/1237.html
 RestTemplate 设置服务不可用重试策略
