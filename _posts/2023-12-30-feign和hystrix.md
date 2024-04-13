@@ -1,3 +1,9 @@
+---
+layout: mypost
+title: "前人指路"
+date:  2019-11-10
+categories: 前人指路
+---
 
 
 google
@@ -6,23 +12,6 @@ feign 使用hystrix 设置hystrix线程数大小
 feign 使用hystrix 内存泄漏问题
 
 Hystrix 线程池隔离 如何传递ThreadLocal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

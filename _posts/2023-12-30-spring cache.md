@@ -1,3 +1,10 @@
+---
+layout: mypost
+title: "前人指路"
+date:  2019-11-10
+categories: 前人指路
+---
+
 Spring Cache 实现失效时间设置 https://my.oschina.net/iamgpj/blog/3070914
 
 Spring Cache扩展：注解失效时间+主动刷新缓存 https://www.cnblogs.com/ASPNET2008/p/6511500.html

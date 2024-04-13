@@ -1,3 +1,11 @@
+---
+layout: mypost
+title: "前人指路"
+date:  2019-11-10
+categories: 前人指路
+---
+
+
 # GitHub Actions 教程：定时发送天气邮件
 
 https://www.ruanyifeng.com/blog/2019/12/github_actions.html

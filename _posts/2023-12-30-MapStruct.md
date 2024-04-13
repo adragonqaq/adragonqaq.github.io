@@ -1,3 +1,10 @@
+---
+layout: mypost
+title: "前人指路"
+date:  2019-11-10
+categories: 前人指路
+---
+
 ### 什么是MapStruct
 
 MapStruct 是一个代码生成器，它基于约定优于配置方法，极大地简化了Java bean类型之间映射的实现。生成的映射代码使用简单的方法调用，因此速度快、类型安全且易于理解。

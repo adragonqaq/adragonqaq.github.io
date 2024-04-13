@@ -1,3 +1,13 @@
+---
+layout: mypost
+title: "前人指路"
+date:  2019-11-10
+categories: 前人指路
+---
+
+
+
+
 https://www.cnblogs.com/guanghe/p/14700381.html
 
 # SpringBoot版本
