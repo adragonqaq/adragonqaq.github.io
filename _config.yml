@@ -37,6 +37,8 @@ menu:
 #    url: /pages/links.html
 #  - title: 留言
 #    url: /pages/chat.html
+  - title: 记事板
+    url: /pages/noteboard.html
   - title: 关于
     url: /pages/about.html
 
