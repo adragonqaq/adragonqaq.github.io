@@ -30,7 +30,7 @@ byte就是字节，英文为B，1byte=8bit，1byte就是1B；
 
 数字占几个比特？
 
-一般一个int是占4bytes 也就是32位
-一个short是16位
-一个byte是8位
-一个long是64位
+* 一般一个int是占4bytes 也就是32位
+* 一个short是16位
+* 一个byte是8位
+* 一个long是64位
